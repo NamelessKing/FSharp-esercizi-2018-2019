@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <Compile Include="Capitolo6_Funzioni_di_ordine_superiore.fs" />
+    <Compile Include="Capitolo7_Tipi_derivati.fs" />
+    <Compile Include="Primo_Compitino_1_Dicembre _2017.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

@@ -2,7 +2,15 @@
 
 open System
 open Capitolo6_Funzioni_di_ordine_superiore
-[<EntryPoint>]
-let main argv =
-    length [1;3;4;7]
-    0 // return an integer exit code
+
+let lookForValue value maxValue =
+  let mutable continueLooping = true
+  let randomNumberGenerator = new Random()
+  while continueLooping do
+    // Generate a random number between 1 and maxValue.
+    for i = 0 to 10 do
+        printf "="
+    Console.Clear()
+       
+
+lookForValue 10 20
