@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="esercitazioni\Esercitazione5.fs" />
+    <Compile Include="esercitazioni\Esercitazione6.fs" />
     <Compile Include="Capitolo6_Funzioni_di_ordine_superiore.fs" />
     <Compile Include="Capitolo7_Tipi_derivati.fs" />
     <Compile Include="Primo_Compitino_1_Dicembre _2017.fs" />
